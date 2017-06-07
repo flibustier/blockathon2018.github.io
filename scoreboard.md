@@ -1,4 +1,6 @@
-## Scoreboard powered by Software Improvement Group SIG.
+# Better Code Hub Scoreboard 
+
+## powered by Software Improvement Group SIG.eu
 
 Team | Better Code Score
 --- | ---
