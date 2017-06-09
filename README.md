@@ -39,7 +39,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 1. Before the event, through bettercodehub@sig.eu
 
-2. During the event on [Slack](https://beyondbankinghack.slack.com/) @zlubsen @ravish or Martin Boerman with questions about Better Code Hub.
+2. During the event on [Slack](https://beyondbankinghack.slack.com/) @zlubsen @ravish or @martinboerman with questions about Better Code Hub.
 
 3. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
 
