@@ -11,7 +11,7 @@ Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-
 
 It is amazing to see how far our industry has come over the past decades. New technologies, frameworks, agile processes - some of which were only recently invented - now define the way we work today. One prominently missing building block in the modern development setup is a standardised way to normatively measure code quality - a SMART 'Definition of Done' shared by all developers.
 
-Based on 15+ years of research and tens of thousands of measurements on IT systems from numerous industries, SIG presents 'Better Code Hub’ (BCH), an online environment that allows anyone to measure how their code compares to 10 rules for future-proof code. These 10 rules code are described in SIG's book 'Building Maintainable Software', which was published with O'Reilly Media and which will be handed out at the event.
+Based on 15+ years of research and tens of thousands of measurements on IT systems from numerous industries, SIG presents 'Better Code Hub’ (BCH), an online environment that allows anyone to measure how their code compares to 10 rules for future-proof code. These ten rules code are described in SIG's book 'Building Maintainable Software', which was published with O'Reilly Media and which will be handed out at the event.
 
 ## Your code is evaluated by using Better Code Hub (BCH).
 
