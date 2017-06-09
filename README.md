@@ -61,7 +61,7 @@ Read more [On why Blockhain needs high quality code ](https://medium.com/@jstvss
 
 And this post on how [Dutch Blockchain Hackathon](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code) appreciated quality code.
 
-Let's build some great software!
+Let's build some great software!!
 
 [Zeeger](https://github.com/zlubsen), [Ravish](https://github.com/), [Martin](https://github.com/mboerman) and [Michiel](https://github.com/michielcuijpers)
 
