@@ -22,22 +22,24 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 100 KLoc per code base.
 
 
-## How to get started.
+## How this works.
 
-1. Mail your team name and personal GitHub handles to [bettercodehub@sig.eu](mailto:bettercodehub@sig.eu) to get Pro access for private repo's
+1. Make sure that you are a member of https://github.com/orgs/BeyondBankingDays/. Slack/Talk to organization of Hackathon if you are not yet a member. Membership of BeyondBankingDays allows you to analyse your private repo's.
 
-2. Put your public or private repo on Github in your profile
+2. Go to [bettercodehub.com](https://bettercodehub.com) 
 
-3. Go to [bettercodehub.com](https://bettercodehub.com) 
+3. Press Play button get instant feedback on the 10 guidelines and pick refactor candidates
 
-4. get instant feedback on the guidelines and pick refactor candidates
+4. Enable Push and Pull Request support
+
+5. Send your badge to be added to the scoreboard. [here](https://beyondbankingdays.github.io/scoreboard)
 
 
 ## How to get support.
 
 1. Before the event, through bettercodehub@sig.eu
 
-2. During the event by talking to Better Code Hub team of SIG with questions about refactoring tactics.
+2. During the event by talking to Better Code Hub team on Slack of SIG with questions about refactoring tactics.
 
 3. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
 
