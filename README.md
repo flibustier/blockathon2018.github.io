@@ -19,7 +19,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 2. You can check your code against the guidelines using [Better Code Hub](https://github.com/integrations/better-code-hub), a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). [Better Code Hub](https://bettercodehub.com) integrates with the GitHub Flow and can run in a CI/CD pipeline on all your Pull Requests and Commits.
 
-3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 100 KLoc per code base.
+3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 200 KLoc per code base.
 
 
 ## How this works.
@@ -39,7 +39,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 1. Before the event, through bettercodehub@sig.eu
 
-2. During the event by talking to Better Code Hub team on Slack of SIG with questions about refactoring tactics.
+2. During the event on [Slack](https://beyondbankinghack.slack.com/) @zlubsen @ravish or Martin Boerman with questions about Better Code Hub.
 
 3. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
 
@@ -50,10 +50,9 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 ## How the scorebord works.
 
-1. You get points based on your score in Better Code Hub, The more guidelines you get right, the higher the score. The maximum is 10 out of 10.
+1. You get points based on your score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10.
 
-2. Your Better Code Hub Badge [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com) and team name need to be on [this digital scoreboard](http://beyondbankingdays.github.io/scoreboard). Talk to us on slack or send a PR with the code.
-
+2. Your Better Code Hub Badge [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com) and team name need to be on [this digital scoreboard](http://beyondbankingdays.github.io/scoreboard). Talk to us on Slack or send a PR with the code.
 
 
 ## Why Blockchain needs Future-Proof code.
