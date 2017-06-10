@@ -23,6 +23,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 4. if you have multiple repos the lowest scoring repo is used for your final mark (weakest link principle).
 
+5. The score model: First we multiply your BCH score with a 1 when you have a Badge, with 2 if you enabled the Push and PR and with 3 if you comply all 10 out 10 (this includes test code). Then we devide by 10. The final score will between 0 and 3.0 
 
 ## How this works.
 
