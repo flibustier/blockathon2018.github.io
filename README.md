@@ -21,6 +21,8 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 200 KLoc per code base.
 
+4. if you have multiple repos the lowest scoring repo is used for your final mark (weakest link principle).
+
 
 ## How this works.
 
