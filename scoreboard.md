@@ -12,6 +12,7 @@ Beyond Banking Days Team | Better Code Score
 [team-28](https://github.com/BeyondBankingDays/team-28-android-app) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-28-api?branch=master&token=53afcc9cccaccab7d915e4692d5344a129861242)](https://bettercodehub.com/) [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-28-android-app?branch=master&token=0efd3624db7badc4d9ecdbbe4a9bf800c72f049e)](https://bettercodehub.com/)
 [team-5](https://github.com/BeyondBankingDays/team-5) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-5?branch=master&token=84eb25db6dbaf293ff68a39065cc301e8948508e)](https://bettercodehub.com/)
 [team-8](https://github.com/BeyondBankingDays/team-8) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-8?branch=master&token=952b66bf697c28ea305c1070c0cf8ebefaf830b5)](https://bettercodehub.com/)
+[team-26] | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-26?branch=master&token=b6eedcbce0c5ad17b7a4942f771241336b26d914)](https://bettercodehub.com/)
 
 --- | ---
 
