@@ -13,7 +13,7 @@ Beyond Banking Days Team | Better Code Score
 [team-5](https://github.com/BeyondBankingDays/team-5) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-5?branch=master&token=84eb25db6dbaf293ff68a39065cc301e8948508e)](https://bettercodehub.com/)
 [team-8](https://github.com/BeyondBankingDays/team-8) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-8?branch=master&token=952b66bf697c28ea305c1070c0cf8ebefaf830b5)](https://bettercodehub.com/)
 [team-26](https://github.com/BeyondBankingDays/team-26) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-26?branch=master&token=b6eedcbce0c5ad17b7a4942f771241336b26d914)](https://bettercodehub.com/)
-[team-1](https://github.com/BeyondBankingDays/team-1) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-1BeyondBankingDays/team-1?branch=master&token=b1877995bf3d70084fae1a1aeb4f4112008e7797)](https://bettercodehub.com/)
+[team-1](https://github.com/BeyondBankingDays/team-1) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-1?branch=master&token=b1877995bf3d70084fae1a1aeb4f4112008e7797)](https://bettercodehub.com/)
 
 --- | ---
 
