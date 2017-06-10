@@ -9,6 +9,7 @@ Beyond Banking Days Team | Better Code Score
 [team-3 “Don't miss it”](https://github.com/BeyondBankingDays/team-3) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-3?branch=master&token=95340d7f61323c887335b4e9a3ec4a834e821699)](https://bettercodehub.com/)
 [team-38](https://github.com/BeyondBankingDays/team-3) | usermgmt: [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team38_usermgmt?branch=master&token=30e5116b0fc85a8bea8321c7122300f1dd7e1ecd)](https://bettercodehub.com/) passportmgmt: [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team38_passportmgmt?branch=master&token=dc08b7025d9230b3696eaa0b419a667115a0fda0)](https://bettercodehub.com/)
 [team-10](https://github.com/BeyondBankingDays/team-10) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-10?branch=master&token=8fe27c620fa7582bf85777c63e8517519c6a1fe5)](https://bettercodehub.com/)
+[team-28] | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-28-api?branch=master&token=53afcc9cccaccab7d915e4692d5344a129861242)](https://bettercodehub.com/) [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-28-android-app?branch=master&token=0efd3624db7badc4d9ecdbbe4a9bf800c72f049e)](https://bettercodehub.com/)
 --- | ---
 
 
