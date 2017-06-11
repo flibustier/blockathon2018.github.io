@@ -23,6 +23,7 @@ Beyond Banking Days Team | Better Code Score
 [team-4](https://github.com/BeyondBankingDays/team-4) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-4?branch=master&token=6c065f5b7fb6bdfc74806a32e8318e50d735a7ed)](https://bettercodehub.com/)
 [team-32](https://github.com/BeyondBankingDays/team-32) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-32?branch=master&token=0e1e9b8c8b3a6effabb1d82ea6c120fb2f67367d)](https://bettercodehub.com/)
 [team-24](https://github.com/BeyondBankingDays/team-24) | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Team24-PaymentService?branch=master&token=c65982a82deaed0336470f6bb231f092d4ff398c)](https://bettercodehub.com/) -payment service <br> [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Team24-UserDetailsService?branch=master&token=2291d6ffdbd43c9f3fcab8f97783a002eeac9fb2)](https://bettercodehub.com/)-user details service <br> [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Team24-MerchantPortal?branch=master&token=74fd3673eeafdaa952b49afaf04f063ba3479251)](https://bettercodehub.com/) -merchant portal
+[team-34] | [![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-34?branch=master&token=e9d58ebca9171f1dc7611212a8318a01cd435cf2)](https://bettercodehub.com/)
 --- | ---
 
 
