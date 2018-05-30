@@ -2,9 +2,9 @@
 
 Event: [Beyond Banking Days initiated by ABN AMRO](https://beyondbanking.nl)
 
-When: 9, 10 and 11 June 2017
+When: 8th, 9th and 10th June 2018
 
-Venue: [Sugar City, Halfweg NL](https://blockchainhackathon.eu/events/hackathon-the-big-weekend)
+Venue: [Sugar City, Halfweg NL](https://beyondbanking.nl/p/venue)
 
 
 ## Why your code is evaluated.
