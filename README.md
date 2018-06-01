@@ -6,8 +6,10 @@ When: 8th, 9th and 10th June 2018
 
 Venue: [Sugar City, Halfweg NL](https://beyondbanking.nl/p/venue)
 
+Award: Most Valuable Prototype (MVP)
 
-## Why your code is evaluated for Most Valuable Prototype (MVP).
+
+## Why your code is evaluated for MVP.
 
 It is amazing to see how far our industry has come over the past decades. New technologies, frameworks, agile processes - some of which were only recently invented - now define the way we work today. One prominently missing building block in the modern development setup is a standardised way to normatively measure code quality - a SMART 'Definition of Done' shared by all developers.
 
