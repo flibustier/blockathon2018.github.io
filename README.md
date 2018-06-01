@@ -32,7 +32,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 ## How to get started.
 
-1. Make sure that you are a member of https://github.com/orgs/BeyondBankingDays/. Slack/Talk to organization of Hackathon if you are not yet a member and ask for an invite. Membership of BeyondBankingDays allows you to store and analyse private repo's on GitHub.
+1. Make sure that you are a member of [BeyondBankingDays](https://github.com/orgs/BeyondBankingDays/). Slack or talk to organization of Hackathon if you are not yet a member and ask for an invite. Membership of the BeyondBankingDays org. allows you to store and analyse private repo's on GitHub.
 
 2. Visit [bettercodehub.com](https://bettercodehub.com) and accept the scopes, please!
 
