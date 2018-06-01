@@ -1,13 +1,13 @@
 ## Free online service to evaluate Code Quality
 
-Event: [Beyond Banking Days initiated by ABN AMRO](https://beyondbanking.nl)
+Event: [Beyond Banking by ABN AMRO](https://beyondbanking.nl)
 
 When: 8th, 9th and 10th June 2018
 
 Venue: [Sugar City, Halfweg NL](https://beyondbanking.nl/p/venue)
 
 
-## Why your code is evaluated.
+## Why your code is evaluated for Most Valuable Prototype (MVP).
 
 It is amazing to see how far our industry has come over the past decades. New technologies, frameworks, agile processes - some of which were only recently invented - now define the way we work today. One prominently missing building block in the modern development setup is a standardised way to normatively measure code quality - a SMART 'Definition of Done' shared by all developers.
 
@@ -29,20 +29,20 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 1. Make sure that you are a member of https://github.com/orgs/BeyondBankingDays/. Slack/Talk to organization of Hackathon if you are not yet a member. Membership of BeyondBankingDays allows you to analyse your private repo's.
 
-2. Go to [bettercodehub.com](https://bettercodehub.com) 
+2. Go to [bettercodehub.com](https://bettercodehub.com) and please accept the scopes
 
 3. Press Play button get instant feedback on the 10 guidelines and pick refactor candidates
 
-4. Enable Push and Pull Request support
+4. Enable Push and Pull Request support by clinking on the PR icon on the card
 
-5. Send your badge to be added to the scoreboard. [here](https://beyondbankingdays.github.io/scoreboard)
+5. Send your badge code to be added to the scoreboard. [here](https://beyondbankingdays.github.io/scoreboard)
 
 
 ## How to get support.
 
 1. Before the event, through bettercodehub@sig.eu
 
-2. During the event on [Slack](https://beyondbankinghack.slack.com/) @zlubsen @ravish or @martinboerman with questions about Better Code Hub.
+2. During the event on [Slack](https://beyondbankinghack.slack.com/) Channel #support_sig_bch @michielcuijpers or @martinboerman with questions about Better Code Hub.
 
 3. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
 
@@ -66,5 +66,5 @@ And this post on how [Dutch Blockchain Hackathon](https://dev.to/jstvssr/how-a-h
 
 Let's build some great software!!
 
-[Zeeger](https://github.com/zlubsen), [Ravish](https://github.com/), [Martin](https://github.com/mboerman) and [Michiel](https://github.com/michielcuijpers)
+[Martin](https://github.com/mboerman) and [Michiel](https://github.com/michielcuijpers)
 
