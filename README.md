@@ -25,11 +25,12 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 200 KLoc per code base.
 
-4. if you have multiple repos the lowest scoring repo is used for your final mark (weakest link principle).
+4. You get points based on your score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10.
 
-5. The score model: First we multiply your BCH score with a 1 when you have a Badge on the scoreboard, with 2 if you also enabled the Push & PR and with 3 if you have **Gone all the way**: a Badge on the scoreboard, enabled Push & PR *and* have test code. Then we devide by 10. The final score will between 0 and 3.0 
+5. if you have multiple repos the lowest scoring repo is used for your final mark (weakest link principle).
 
-## How this works.
+
+## How to get started.
 
 1. Make sure that you are a member of https://github.com/orgs/BeyondBankingDays/. Slack/Talk to organization of Hackathon if you are not yet a member. Membership of BeyondBankingDays allows you to analyse your private repo's.
 
@@ -52,12 +53,6 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 4. After the event, through bettercodehub@sig.eu 
 
-
-## How the scorebord works.
-
-1. You get points based on your score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10.
-
-2. Your Better Code Hub Badge [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com) and team name need to be on [this digital scoreboard](http://beyondbankingdays.github.io/scoreboard). Talk to us on Slack or send a PR with the code.
 
 
 ## Why Blockchain needs Future-Proof code.
