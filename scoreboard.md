@@ -2,7 +2,7 @@
 
 Beyond Banking Days Team | Better Code Score
 --- | ---
-    | 
+--- | ---
 --- | ---
 
 
