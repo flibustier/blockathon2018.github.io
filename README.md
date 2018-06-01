@@ -8,8 +8,10 @@ Venue: [Sugar City, Halfweg NL](https://beyondbanking.nl/p/venue)
 
 Award: Most Valuable Prototype (MVP)
 
+Award Prize: SIG Transformation services "Getting Investor Ready Workshop"
 
-## Why your code is evaluated for MVP.
+
+## Why your code is evaluated.
 
 It is amazing to see how far our industry has come over the past decades. New technologies, frameworks, agile processes - some of which were only recently invented - now define the way we work today. One prominently missing building block in the modern development setup is a standardised way to normatively measure code quality - a SMART 'Definition of Done' shared by all developers.
 
