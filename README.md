@@ -21,22 +21,22 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 1. Your code will be automatically evaluated and benchmarked against 10 guidelines for building future-proof code. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
-2. You can check your code against the guidelines using [Better Code Hub](https://github.com/integrations/better-code-hub), a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). [Better Code Hub](https://bettercodehub.com) integrates with the GitHub Flow and can run in a CI/CD pipeline on all your Pull Requests and Commits.
+2. You can check your code against the guidelines using [Better Code Hub](https://bettercodehub.com), a GitHub integration provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with the GitHub Flow and can easily run in your CI/CD pipeline on all your Pull Requests and commits.
 
 3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 200 KLoc per code base.
 
-4. You get points based on your score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10.
+4. You get points based on your score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10. All guidelines are equally important so please aim for a 10 for new codebases.
 
-5. if you have multiple repos the lowest scoring repo is used for your final mark (weakest link principle).
+5. if you have multiple repos during this hacakthon, the lowest scoring repo is used for your final mark (weakest link principle).
 
 
 ## How to get started.
 
-1. Make sure that you are a member of https://github.com/orgs/BeyondBankingDays/. Slack/Talk to organization of Hackathon if you are not yet a member. Membership of BeyondBankingDays allows you to analyse your private repo's.
+1. Make sure that you are a member of https://github.com/orgs/BeyondBankingDays/. Slack/Talk to organization of Hackathon if you are not yet a member and ask for an invite. Membership of BeyondBankingDays allows you to store and analyse private repo's on GitHub.
 
-2. Go to [bettercodehub.com](https://bettercodehub.com) and please accept the scopes
+2. Visit [bettercodehub.com](https://bettercodehub.com) and accept the scopes, please!
 
-3. Press Play button get instant feedback on the 10 guidelines and pick refactor candidates
+3. Press Play button to get instant feedback on the 10 guidelines, browse the report & pick refactor candidates to turn into an Issue.
 
 4. Enable Push and Pull Request support by clinking on the PR icon on the card
 
@@ -52,7 +52,6 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 3. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
 
 4. After the event, through bettercodehub@sig.eu 
-
 
 
 ## Why Blockchain needs Future-Proof code.
