@@ -52,8 +52,6 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 4. After the event, through bettercodehub@sig.eu 
 
-5. Your Pro access to Better Code Hub remains valid for *1 month* after the event
-
 
 ## How the scorebord works.
 
