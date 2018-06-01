@@ -8,7 +8,7 @@ Venue: [Sugar City, Halfweg NL](https://beyondbanking.nl/p/venue)
 
 Award: Most Valuable Prototype (MVP)
 
-Award Prize: SIG Transformation services "Getting Investor Ready Workshop"
+Award Prize: "Investor Readiness Workshop" organised by [SIG Transaction Services](https://www.sig.eu/it-due-diligence/)
 
 
 ## Why your code is evaluated.
