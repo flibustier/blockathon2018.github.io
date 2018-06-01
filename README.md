@@ -21,7 +21,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 1. Your code will be automatically evaluated and benchmarked against 10 guidelines for building future-proof code. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
-2. You can check your code against the guidelines using [Better Code Hub](https://bettercodehub.com), a GitHub integration provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with the GitHub Flow and can easily run in your CI/CD pipeline on all your Pull Requests and commits.
+2. You can check your code against the guidelines using [Better Code Hub](https://bettercodehub.com), a GitHub integration provided by [Software Improvement Group SIG](https://www.sig.eu/better-code-hub/). Better Code Hub integrates with the GitHub Flow and can easily run in your CI/CD pipeline on all your Pull Requests and commits.
 
 3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 200 KLoc per code base.
 
