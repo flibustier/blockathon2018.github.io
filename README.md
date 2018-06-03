@@ -64,5 +64,5 @@ And this post on how [Dutch Blockchain Hackathon](https://dev.to/jstvssr/how-a-h
 
 Let's build some great banking software !!
 
-[Martin](https://github.com/mboerman) and [Michiel](https://github.com/michielcuijpers)
+[Martin](https://github.com/mboerman) and [Michiel](https://github.com/michielcuijpers), Christiaan , Robert and Michael.
 
