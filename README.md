@@ -1,4 +1,4 @@
-## Free online service to evaluate Code Quality.
+## Online service to evaluate Code Quality.
 
 Event: [Beyond Banking by ABN AMRO](https://beyondbanking.nl)
 
@@ -28,6 +28,8 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 4. You get points based on your score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10. All guidelines are equally important so please aim for a 10 for new codebases.
 
 5. if you have multiple repos during this hacakthon, the lowest scoring repo is used for your final mark (weakest link principle).
+
+6. Your final score is between 0.0 and 3.0, see the [scoreboard](https://beyondbankingdays.github.io/scoreboard)
 
 
 ## How to get started.
