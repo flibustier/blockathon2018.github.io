@@ -29,7 +29,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 5. if you have multiple repos during this hacakthon, the lowest scoring repo is used for your final mark (weakest link principle).
 
-6. Your final score is between 0.0 and 3.0, see the [scoreboard](https://beyondbankingdays.github.io/scoreboard)
+6. Your final score is between 1 - 10 [scoreboard](https://beyondbankingdays.github.io/scoreboard)
 
 
 ## How to get started.
