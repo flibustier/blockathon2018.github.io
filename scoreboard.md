@@ -5,37 +5,34 @@ Beyond Banking Days Team | Better Code Score
 --- | ---
 --- | ---
 
-
-
-## How we calculate the final score
-
-if you have multiple repos during this hacakthon, the lowest scoring repo is used for your final mark (weakest link principle).
-
-
-## Powered by Software Improvement Group SIG.eu
-
-
-##Test table
 <table>
 <colgroup>
-<col width="30%" />
 <col width="70%" />
+<col width="30%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th>Field</th>
-<th>Description</th>
+<th>Team name</th>
+<th>BetterCodeHub Score</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">Dummy team</td>
+<td markdown="span">[Badge](http://google.com/?q=linktobadge)</td>
 </tr>
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
+<td markdown="span">Dummy team</td>
+<td markdown="span">[Badge2](http://google.com/?q=linktobadge)</td>
 </tr>
 </tbody>
 </table>
+
+## How we calculate the final score
+
+If you have multiple repos during this hacakthon, the lowest scoring repo is used for your final mark (weakest link principle).
+
+If multiple teams have the same BetterCodeHub score (e.g. a 10), we will look at the ratio between unit tests and production code.
+
+
+## Powered by Software Improvement Group SIG.eu
