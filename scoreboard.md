@@ -1,4 +1,4 @@
-<style>
+<html><style>
 table.blueTable {
   border: 1px solid #1C6EA4;
   background-color: #E2E6EE;
@@ -53,7 +53,7 @@ table.blueTable tfoot .links a{
   padding: 2px 8px;
   border-radius: 5px;
 }
-</style>
+</style></html>
 
 # Better Code Hub Scoreboard 
 
