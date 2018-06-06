@@ -1,7 +1,7 @@
 
 # Better Code Hub Scoreboard 
 
-<table class="blueTable">
+<table>
 <colgroup>
 <col width="70%" />
 <col width="30%" />
