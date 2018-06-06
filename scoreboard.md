@@ -19,11 +19,11 @@ Beyond Banking Days Team | Better Code Score
 <tbody>
 <tr>
 <td markdown="span">Dummy team</td>
-<td markdown="span">[http://google.com/?q=linktobadge](Badge)</td>
+<td markdown="span">[Google](http://google.com)</td>
 </tr>
 <tr>
 <td markdown="span">Dummy team</td>
-<td markdown="span">[http://google.com/?q=linktobadge](Badge 2)</td>
+<td markdown="span">[Google](http://google.com)</td>
 </tr>
 </tbody>
 </table>
