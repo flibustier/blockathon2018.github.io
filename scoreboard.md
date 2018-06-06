@@ -1,10 +1,5 @@
 # Better Code Hub Scoreboard 
 
-Beyond Banking Days Team | Better Code Score
---- | ---
---- | ---
---- | ---
-
 <table>
 <colgroup>
 <col width="70%" />
@@ -12,7 +7,7 @@ Beyond Banking Days Team | Better Code Score
 </colgroup>
 <thead>
 <tr class="header">
-<th>Team name</th>
+<th>Beyond Banking Days Team</th>
 <th>BetterCodeHub Score</th>
 </tr>
 </thead>
