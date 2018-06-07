@@ -58,7 +58,13 @@
 </html>
 
 <script>
-	$(document).ready(function() {
-		$( 'a[href^="http://"]' ).attr( 'target','_blank' );
+	function link_is_external(link_element) {
+		return (link_element.host !== window.location.host);
+	}
+	
+	$( 'a' ).each(function() {
+		if( link_is_external(this) ) {
+			$(this).attr('target','_blank');
+		}
 	});
 </script>
