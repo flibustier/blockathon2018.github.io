@@ -1,10 +1,10 @@
 
-# Better Code Hub Scoreboard 
+<h1>Better Code Hub Scoreboard</h1>
 
 <table>
 <colgroup>
-<col width="70%" />
-<col width="30%" />
+<col width="60%" />
+<col width="40%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -26,11 +26,8 @@
 
 <hr>
 
-## How we calculate the final score
+<h2>How we calculate the final score</h2>
 
 If you have multiple repos during this hacakthon, the lowest scoring repo is used for your final mark (weakest link principle).
 
 If multiple teams have the same BetterCodeHub score (e.g. a 10), we will look at the ratio between unit tests and production code.
-
-
-## Powered by Software Improvement Group SIG.eu
