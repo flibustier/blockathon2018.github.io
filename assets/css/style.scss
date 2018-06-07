@@ -46,8 +46,9 @@ thead{
   text-indent: 10px;
 }
 
-tbody, td{
+tbody{
   text-indent:10px;
+  text-align:left;
 }
 
 tr:nth-child(even) {
