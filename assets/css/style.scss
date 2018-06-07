@@ -23,6 +23,14 @@ container{
   padding-top:15px;
 }
 
+#navigation a{
+  text-decoraton:none;
+}
+
+#navigation li{
+  display:inline;
+}
+
 h1{
   color:rgb(130, 36, 78);
 }
