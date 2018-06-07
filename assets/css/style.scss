@@ -9,9 +9,19 @@ body{
   color:#333;
 }
 
+#headercontainer{
+  display:flex;
+}
+
+#logos{
+  flex:1;
+}
+
 header{
   padding-top:20px;
   padding-bottom:20px;
+  padding-left:15px;
+  flex:3;
 }
 
 header h1{
