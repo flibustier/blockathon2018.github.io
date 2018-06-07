@@ -1,5 +1,5 @@
 &nbsp;
-## Online service to evaluate Code Quality
+<h1>Online service to evaluate Code Quality</h1>
 
 Event: [Beyond Banking by ABN AMRO](https://beyondbanking.nl)
 
