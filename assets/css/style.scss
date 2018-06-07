@@ -31,3 +31,27 @@ header h1{
   color:rgb(130, 36, 78);
 }
 
+table{
+  margin-top:20px;
+  margin-bottom:20px;
+  width: 100%;
+  border: 1px solid #ebebeb;
+  text-align: left;
+}
+
+thead{
+  background-color: #335687;
+  color: #FFF;
+  text-shadow: none;
+  text-indent: 10px;
+}
+
+tbody{
+  text-indent:10px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
