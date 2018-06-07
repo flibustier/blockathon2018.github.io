@@ -1,4 +1,3 @@
-&nbsp;
 <h1>Online service to evaluate Code Quality</h1>
 
 Event: [Beyond Banking by ABN AMRO](https://beyondbanking.nl)
@@ -10,7 +9,6 @@ Venue: [Sugar City, Halfweg NL](https://beyondbanking.nl/p/venue)
 Award: Most Valuable Prototype (MVP)
 
 Award Prize: "Investor Readiness Workshop" organised by [SIG Transaction Services](https://www.sig.eu/it-due-diligence/)
-
 
 ## Why your code is evaluated.
 
