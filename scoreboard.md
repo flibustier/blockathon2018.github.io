@@ -24,6 +24,8 @@
 </tbody>
 </table>
 
+<hr>
+
 ## How we calculate the final score
 
 If you have multiple repos during this hacakthon, the lowest scoring repo is used for your final mark (weakest link principle).
