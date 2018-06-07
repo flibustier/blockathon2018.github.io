@@ -30,4 +30,6 @@
 
 If you have multiple repos during this hackathon, the lowest scoring repo is used for your final mark (weakest link principle).
 
-If multiple teams have the same BetterCodeHub score (e.g. a 10), we will look at the ratio between unit tests and production code.
+If multiple teams have the same BetterCodeHub score (e.g. a 10), we will look at the ratio between unit tests and production code. 
+
+We might also take into consideration a more accurate measure of Maintainability according to our SIG/TÜViT Maintainability model.
