@@ -28,6 +28,6 @@
 
 <h2>How we calculate the final score</h2>
 
-If you have multiple repos during this hacakthon, the lowest scoring repo is used for your final mark (weakest link principle).
+If you have multiple repos during this hackathon, the lowest scoring repo is used for your final mark (weakest link principle).
 
 If multiple teams have the same BetterCodeHub score (e.g. a 10), we will look at the ratio between unit tests and production code.
