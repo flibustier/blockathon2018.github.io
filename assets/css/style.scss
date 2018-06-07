@@ -3,8 +3,14 @@
 
 @import "{{ site.theme }}";
 
-h1{
+body{
   font-family:"PT Sans", "Helvetica Neue", sans-serif;
+  color:#333;
+}
+
+header h1{
+  font-family:"PT Sans", "Helvetica Neue", sans-serif;
+  color:rgb(130, 36, 78);
 }
 
 table.blueTable {
