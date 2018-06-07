@@ -5,10 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/favicon-32x32.png'  | absolute_url }}">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-	 
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 {% seo %}
@@ -17,7 +18,7 @@
   <body>
     <div id="container">
       <div class="inner">
-	      
+
 	<nav id="navigation" class="navigation">
 		<ul>
 			<li><a href="/">Home</a></li>
@@ -37,7 +38,7 @@
         </header>
 	      </div>
 
-       
+
         <hr>
         <section id="main_content">
           {{ content }}
@@ -68,7 +69,7 @@
 	function link_is_external(link_element) {
 		return (link_element.host !== window.location.host);
 	}
-	
+
 	$( 'a' ).each(function() {
 		if( link_is_external(this) ) {
 			$(this).attr('target','_blank');
