@@ -22,6 +22,10 @@
 </thead>
 <tbody>
 <tr>
+<td markdown="span">Shop Aid-api</td>
+<td markdown="span">[![BCH compliance] (https://bettercodehub.com/edge/badge/BeyondBankingDays/shopaid-api?branch=master&token=31d0bf103996009033c69dc24e7fd5a6ee458869)   ](https://bettercodehub.com/)</td>
+</tr>
+<tr>
 <td markdown="span">Example team</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-7?branch=master&token=ee3a05011815359b51ee6f0de7e0b0ff55a9fb8c)](https://bettercodehub.com/)</td>
 </tr>
@@ -29,7 +33,7 @@
 <td markdown="span">Another example</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-7?branch=master&token=ee3a05011815359b51ee6f0de7e0b0ff55a9fb8c)](https://bettercodehub.com/)</td>
 </tr>
-    <tr>
+<tr>
 <td markdown="span">Another example</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-7?branch=master&token=ee3a05011815359b51ee6f0de7e0b0ff55a9fb8c)](https://bettercodehub.com/)</td>
 </tr>
