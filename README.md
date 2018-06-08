@@ -14,7 +14,7 @@ Award Prize: "Investor Readiness Workshop" organised by [SIG Transaction Service
 
 It is amazing to see how far our industry has come over the past decades. New technologies, frameworks, agile processes - some of which were only recently invented - now define the way we work today. One prominently missing building block in the modern development setup is a standardised way to normatively measure code quality - a SMART 'Definition of Done' shared by all developers.
 
-Based on 15+ years of research and tens of thousands of measurements on IT systems from numerous industries, SIG presents 'Better Code Hub’ (BCH), an online environment that allows anyone to measure how their code compares to 10 rules for future-proof code. These ten rules code are described in SIG's book 'Building Maintainable Software', which was published with O'Reilly Media and which will be handed out at the event.
+Based on 15+ years of research and tens of thousands of measurements on IT systems from numerous industries, SIG presents 'Better Code Hub’ (BCH), an online environment that allows anyone to measure how their code compares to 10 rules for future-proof code. These ten rules code are described in SIG's book 'Building Maintainable Software', which was published with O'Reilly Media and which will be handed out at the event or can be downloaded [here C# edition in pdf](https://www.sig.eu/wp-content/uploads/2017/02/Building_Maintainable_Software_C_Sharp_SIG.pdf).
 
 ## Your code is evaluated by using Better Code Hub (BCH).
 
@@ -55,11 +55,17 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 4. After the event, through bettercodehub@sig.eu 
 
 
-## Why Blockchain needs Future-Proof code.
+## Further reading on Hackathons and Future-Proof code.
 
-Read more [On why Blockhain needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+Writing quality code [under time pressure](https://hackernoon.com/writing-quality-code-under-time-pressure-62ebeb5f39c5)
+
+How a Hackathon [appreciates quality code](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
+
+Why Blockhain [needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
 And this post on how [Dutch Blockchain Hackathon](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code) appreciated quality code.
+
+
 
 Let's build some great banking software !!
 
