@@ -38,8 +38,8 @@
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-api?branch=master&token=20e36171d03414886e056990ad6633692f1469ea)](https://bettercodehub.com/)</td>
 </tr>
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Team Homebanking - Homebanking</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/HomeBanking?branch=master&token=0e5f8e4ae8973d1c518ea95682769b23dd6b4ae3)](https://bettercodehub.com/)</td>
 </tr>
     <tr>
 <td markdown="span">--</td>
