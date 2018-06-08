@@ -22,22 +22,22 @@
 </thead>
 <tbody>
 <tr>
-<td markdown="span">team Shop Aid - Shop Aid-api</td>
+<td markdown="span">Team Shop Aid - Shop Aid-api</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/shopaid-api?branch=master&token=31d0bf103996009033c69dc24e7fd5a6ee458869)](https://bettercodehub.com/)</td>
 </tr>
 <tr>
-<td markdown="span">team Pay it off - Kick</td>
+<td markdown="span">Team Pay it off - Kick</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Kick?branch=master&token=19180af74f4292eb06acbf1dbbc1a167864d828f)](https://bettercodehub.com/)</td>
 </tr>
 <tr>
-<td markdown="span">team Libra - Libra </td>
+<td markdown="span">Team Libra - Libra </td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Libra?branch=develop&token=f884142a47a0010b99785e7b7b7279b833e27682)](https://bettercodehub.com/)</td>
 </tr>
 <tr>
 </tr>        
 <tr>
 <td markdown="span">Team Minions - Minions API</td>
-<td markdown="span">[![[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-api?branch=master&token=20e36171d03414886e056990ad6633692f1469ea)](https://bettercodehub.com/)</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-api?branch=master&token=20e36171d03414886e056990ad6633692f1469ea)](https://bettercodehub.com/)</td>
 </tr>
 <tr>
 <td markdown="span">Another example</td>
