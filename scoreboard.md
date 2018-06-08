@@ -1,6 +1,4 @@
-<style>
-#scoreboardtitle{
-    font-weight: bolder;
+<h1 id="scoreboardtitle" style="font-weight: bolder;
     text-align: center;
     border-bottom: #d8c69ec7;
     border-bottom-width: 2px;
@@ -10,11 +8,7 @@
     font-family: sans-serif;
     letter-spacing: -1px;
     color: #82254e;
-    text-shadow: 1px 1px 3px #949494;
-}
-  </style>
-
-<h1 id="scoreboardtitle">Better Code Hub Scoreboard</h1>
+    text-shadow: 1px 1px 3px #949494;">Better Code Hub Scoreboard</h1>
 
 <table>
 <colgroup>
