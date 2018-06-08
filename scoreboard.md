@@ -10,7 +10,7 @@
     color: #82254e;
     text-shadow: 1px 1px 3px #949494;">Better Code Hub Scoreboard</h1>
 
-<table>
+<table style="box-shadow:0px 0px 25px #bdeafb;">
 <colgroup>
 <col width="60%" />
 <col width="40%" />
