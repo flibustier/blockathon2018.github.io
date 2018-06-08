@@ -34,6 +34,8 @@
 <td markdown="span">[![BCH compliance][![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Libra?branch=develop&token=f884142a47a0010b99785e7b7b7279b833e27682)](https://bettercodehub.com/)</td>
 </tr>
 <tr>
+</tr>        
+<tr>
 <td markdown="span">Another example</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-7?branch=master&token=ee3a05011815359b51ee6f0de7e0b0ff55a9fb8c)](https://bettercodehub.com/)</td>
 </tr>
