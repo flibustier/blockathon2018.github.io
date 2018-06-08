@@ -32,12 +32,26 @@
 <tr>
 <td markdown="span">Team Libra - Libra </td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Libra?branch=develop&token=f884142a47a0010b99785e7b7b7279b833e27682)](https://bettercodehub.com/)</td>
-</tr>
-<tr>
 </tr>        
 <tr>
 <td markdown="span">Team Minions - Minions API</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-api?branch=master&token=20e36171d03414886e056990ad6633692f1469ea)](https://bettercodehub.com/)</td>
+</tr>
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+    <tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+    <tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+    <tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
 </tr>
 <tr>
 <td markdown="span">Another example</td>
