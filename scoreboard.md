@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td markdown="span">Pay it off Kick</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Kick?branch=master&token=19180af74f4292eb06acbf1dbbc1a167864d828f)](https://bettercodehub.com/)]</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Kick?branch=master&token=19180af74f4292eb06acbf1dbbc1a167864d828f)](https://bettercodehub.com/)</td>
 </tr>
 <tr>
 <td markdown="span">Another example</td>
