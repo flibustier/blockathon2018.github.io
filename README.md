@@ -1,6 +1,6 @@
 <h1>Online service to evaluate Code Quality</h1>
 
-Event: [Beyond Banking by ABN AMRO](https://beyondbanking.nl).
+Event: [Beyond Banking by ABN AMRO](https://beyondbanking.nl)
 
 When: 8th, 9th and 10th June 2018
 
