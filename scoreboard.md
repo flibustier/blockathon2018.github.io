@@ -7,7 +7,7 @@
     border-bottom-right-radius: 10px;
     font-family: sans-serif;
     letter-spacing: -1px;
-    color: #82254e;">&#10097 Better Code Hub Scoreboard &#10096</h1>
+    color: #82254e;">&#10097; Better Code Hub Scoreboard &#10096;</h1>
 
 <table style="box-shadow:0px 0px 25px #bdeafb;">
 <colgroup>
