@@ -286,8 +286,8 @@
 <td markdown="span">Data Wallet - Frontend</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/data-wallet-wealth-fe?branch=master&token=ef117e5a8689c560ebdfcac3b0652063b364c81b)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Funding force- FundingForce</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/FundingForce?branch=master&token=89a81aabd279ed39d2fd225ceb6014c4920a0f3a)](https://bettercodehub.com/)</td>
 </tr>
 
 
