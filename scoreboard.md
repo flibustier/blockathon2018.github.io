@@ -157,8 +157,8 @@
 <td markdown="span">UrVoiceUrChoice - UrVoiceUrChoiceNotification</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/UrVoiceUrChoiceNotification?branch=master&token=9edc4402c12b03bbee355780579a7f8f8bb6ac3b)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">UrVoiceUrChoice - UrVoiceUrChoiceServer</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/UrVoiceUrChoiceServer?branch=master&token=9163a7084315198141032b975ece6e1f5228d34f)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
