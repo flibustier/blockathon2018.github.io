@@ -28,6 +28,15 @@
 <tr>
     
 <tr>
+    
+<tr>
+<td markdown="span">Minions - Frontend</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-frontend?branch=develop)](https://bettercodehub.com/)</td>
+
+<td markdown="span">Minions - Minions API</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-api?branch=master&token=20e36171d03414886e056990ad6633692f1469ea)](https://bettercodehub.com/)</td>
+</tr>
+
 <td markdown="span">SSHForSecureFuture - Suggestions</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/suggestions?branch=master&token=a780d692fa26a55d4dd718dd3aa26a0e18bef85a)](https://bettercodehub.com/)</td>
 
@@ -225,13 +234,7 @@
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/i2i-BB-hack?branch=master&token=383ed7ffc67df307b67eff9f7529a893e261880a)](https://bettercodehub.com/)</td>
 </tr>
 
-<tr>
-<td markdown="span">Minions - Minions API</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-api?branch=master&token=20e36171d03414886e056990ad6633692f1469ea)](https://bettercodehub.com/)</td>
 
-<td markdown="span">Minions - Frontend</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-frontend?branch=develop)](https://bettercodehub.com/)</td>
-</tr>
 
 <tr>
 <td markdown="span">Trail Finder - Trailfinder</td>
