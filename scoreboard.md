@@ -134,13 +134,13 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Ultimate Warriors - akshyaPatraBackend</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/akshyaPatraBackend?branch=master&token=046ca931b9df0961549a1bb81683b508f2e8d8fb)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Ultimate Warriors - akshyaPatra</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/AkshayaPatra?branch=master&token=141ebbf026497fa096de547c0dff543de57ed91d)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
