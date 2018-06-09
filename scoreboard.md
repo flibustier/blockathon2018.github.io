@@ -105,22 +105,22 @@
 </tr>
 
 <tr>
-<td markdown="span">SecureD Managing- SecureDService</td>
+<td markdown="span">SecureD Managing - SecureDService</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/SecureDService?branch=master&token=6ba9297627141fadb44d510c3b172c21bd8e7dc6)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
-<td markdown="span">SecureD Managing- SecureDService</td>
+<td markdown="span">SecureD Managing - SecureDService</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/SecureDApp?branch=master&token=9f1cb94f31e3d497e4904d42463cc6c391193e64)](https://bettercodehub.com/)
 </tr>
 
 <tr>
-<td markdown="span">SecureD Managing- SecureDApp</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/SecureDApp?branch=master&token=9f1cb94f31e3d497e4904d42463cc6c391193e64)](https://bettercodehub.com/)</td>
+<td markdown="span">SecureD Managing - SecureD3rdPartyUI</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/SecureD3rdPartyUI?branch=master&token=c71fa34693f2831940c749177dcf4d0db01f6476)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
-<td markdown="span">SecureD Managing- SecureWebp</td>
+<td markdown="span">SecureD Managing - SecureWeb</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/secureweb?branch=master&token=bc819e4deba41b9e48836aed5072e68617efc2c8)](https://bettercodehub.com/)</td>
 </tr>
 
