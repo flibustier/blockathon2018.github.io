@@ -189,6 +189,22 @@
 <td markdown="span">Proxy - proxy-shop</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/proxy-shop?branch=master&token=b758b3621530410e211fba9a94fbe06202bd5ba8)](https://bettercodehub.com/)</td>
 
+<td markdown="span">Baas - repo</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/2018-e-team-02?branch=master)](https://bettercodehub.com/)</td>
+</tr>
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
