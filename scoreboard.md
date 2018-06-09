@@ -125,6 +125,26 @@
 </tr>
 
 <tr>
+<td markdown="span">FinXP - 200OK </td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/200OK?branch=master&token=8ed96653a8bfad6c296f725179c1946cb064b439)](https://bettercodehub.com/)</td>
+</tr>
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
