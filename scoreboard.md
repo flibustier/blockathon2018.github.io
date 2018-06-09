@@ -46,8 +46,8 @@
 <td markdown="span">Homebanking - Homebanking</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/HomeBanking?branch=master&token=0e5f8e4ae8973d1c518ea95682769b23dd6b4ae3)](https://bettercodehub.com/)</td>
 
-<td markdown="span"> - </td>
-<td markdown="span"> - </td>
+<td markdown="span">Propo - Propo</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/propo?branch=master&token=aff3051c488c55ad6f7d20a3c0555c9889c8688a)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
