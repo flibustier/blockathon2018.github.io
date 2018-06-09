@@ -300,7 +300,7 @@
 
 
 <tr>
-<td markdown="span"Click2see - Vendorapicall</td>
+<td markdown="span">Click2see - Vendorapicall</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/VendorAPICall?branch=master)](https://bettercodehub.com/)</td>
     
 <td markdown="span">--</td>
@@ -313,6 +313,14 @@
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
 
 <tr>
 <td markdown="span">--</td>
