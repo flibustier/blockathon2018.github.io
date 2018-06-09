@@ -18,9 +18,9 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th>Beyond Banking Days Team - Repo</th>
+<th>Beyond Banking Team - Repo</th>
 <th>BetterCodeHub Score</th>
-<th>Beyond Banking Days Team - Repo</th>
+<th>Beyond Banking Team - Repo</th>
 <th>BetterCodeHub Score</th>
 </tr>
 </thead>
