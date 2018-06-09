@@ -129,8 +129,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">FW.pay2018 - FW.pay</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Fwd.Pay?branch=master&token=eaf9fde536ca609f8a42adeda82c4527f1959375)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
