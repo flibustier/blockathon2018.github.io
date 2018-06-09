@@ -246,11 +246,11 @@
 
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Care Data Analytics- CareAccprediction</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/CareAccprediction?branch=master&token=4e0ac8129eb1fdd07264434205e250c624acc893)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Care Data Analytics- care app</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/careApp?branch=master&token=be33a29af523aec648466c76614ac4f36aca2f92)](https://bettercodehub.com/)</td>
 </tr>
 
 
@@ -299,6 +299,23 @@
 <td markdown="span">--</td>
 </tr>
 
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
 
 </tbody>
 </table>
