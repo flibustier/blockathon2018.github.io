@@ -165,8 +165,8 @@
 <td markdown="span">Graphite - GraphiteService</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/GraphiteService?branch=master)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Guardian Angel - guardianAngel</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/shaswatamukherjee/guardianAngel?branch=master)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
