@@ -75,7 +75,7 @@
 </tr>
 
 <tr>
-<td markdown="span">Team 2018-H-Team-06 - GreenChange-</td>
+<td markdown="span">Team The Game Changer - GreenChange</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/greenchange?branch=master&token=eb77a65eb3660ec0329a6d30304351dc0f9de911)](https://bettercodehub.com/)</td>
 </tr>
 
