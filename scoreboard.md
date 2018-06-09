@@ -105,8 +105,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">SecureD Managing- SecureDService</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/SecureDService?branch=master&token=6ba9297627141fadb44d510c3b172c21bd8e7dc6)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
