@@ -124,16 +124,16 @@
 </tr>
 
 <tr>
-<td markdown="span"> - </td>
-<td markdown="span">- </td>
+<td markdown="span">iManage - Server</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/iManage-Server?branch=master&token=aabd4d796fa784ade34487c63958c26f6b281687)](https://bettercodehub.com/)</td>
 
 <td markdown="span">iManage - Client</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/iManage-Client?branch=master&token=f43b4d6e25330c3d0425d39f7b106d03344635b9)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
-<td markdown="span">iManage - Server</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/iManage-Server?branch=master&token=aabd4d796fa784ade34487c63958c26f6b281687)](https://bettercodehub.com/)</td>
+<td markdown="span"> - </td>
+<td markdown="span"> - </td>
 
 <td markdown="span">Deloitte - deloiiteblockchain</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/deloiiteblockchain?branch=master)](https://bettercodehub.com/)</td>
