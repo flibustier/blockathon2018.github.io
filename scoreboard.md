@@ -25,12 +25,11 @@
 </tr>
 </thead>
 <tbody>
-   
+<tr> 
     
 <tr>
 <td markdown="span">Minions - Frontend</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-frontend?branch=develop)](https://bettercodehub.com/)</td>
-
 <td markdown="span">Minions - Minions API</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-api?branch=master&token=20e36171d03414886e056990ad6633692f1469ea)](https://bettercodehub.com/)</td>
 </tr>
