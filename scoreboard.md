@@ -170,8 +170,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Give&Trust - SocialMediaIntegration</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/GiveAndTrustSocialMediaIntegration?branch=master&token=7617e834dcebf1f978067bcfc01b39f97c7a0f3a)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
