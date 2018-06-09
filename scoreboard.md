@@ -42,37 +42,34 @@
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/HomeBanking?branch=master&token=0e5f8e4ae8973d1c518ea95682769b23dd6b4ae3)](https://bettercodehub.com/)</td>
 </tr>
     <tr>
-<td markdown="span">Team R3 (Re-use, Re-cyle, Re-design) - Back end api</td>
+<td markdown="span">Team R3 - Back end api</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/backend-api-repo?branch=master&token=34f14509e447d8cc1386650df64c1d17b45f65af)](https://bettercodehub.com/)</td>
 </tr>
      <tr>
-<td markdown="span">Team R3(Re-use, Re-cyle, Re-design) - Frontend - repo</td>
+<td markdown="span">Team R3 - Frontend-repo</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/frontend-repo?branch=master&token=503aa6e37515bac2ea561d6f45d0f3cbe2b00686)](https://bettercodehub.com/)</td>
 </tr>
     <tr>
 <td markdown="span">Team Pay it off - Kick</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Kick?branch=master&token=19180af74f4292eb06acbf1dbbc1a167864d828f)](https://bettercodehub.com/)</td>
 </tr>
-   
-      <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
-</tr>  <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
-</tr>
+
 <tr>
-<td markdown="span">Another example</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-7?branch=master&token=ee3a05011815359b51ee6f0de7e0b0ff55a9fb8c)](https://bettercodehub.com/)</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr> 
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>  
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
 </tr>
- <tr>
-<td markdown="span">Another example</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-7?branch=master&token=ee3a05011815359b51ee6f0de7e0b0ff55a9fb8c)](https://bettercodehub.com/)</td>
-</tr>
-     <tr>
-<td markdown="span">Another example</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/team-7?branch=master&token=ee3a05011815359b51ee6f0de7e0b0ff55a9fb8c)](https://bettercodehub.com/)</td>
-</tr>
+
+
 </tbody>
 </table>
 
