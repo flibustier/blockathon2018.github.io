@@ -25,8 +25,7 @@
 </tr>
 </thead>
 <tbody>
-
-    
+   
     
 <tr>
 <td markdown="span">Minions - Frontend</td>
