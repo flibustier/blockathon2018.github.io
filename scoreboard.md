@@ -124,8 +124,8 @@
 </tr>
 
 <tr>
-<td markdown="span">ZEx - Heimdall</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Heimdall?branch=master&token=43c29c2397b91b9eeeb44696b48606631376fe66)](https://bettercodehub.com/)</td>
+<td markdown="span"> - </td>
+<td markdown="span">- </td>
 
 <td markdown="span">iManage - Client</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/iManage-Client?branch=master&token=f43b4d6e25330c3d0425d39f7b106d03344635b9)](https://bettercodehub.com/)</td>
@@ -237,11 +237,11 @@
 
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">ZEx - Heimdall</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Heimdall?branch=master&token=43c29c2397b91b9eeeb44696b48606631376fe66)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">ZEx - Yggdrasil</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Yggdrasil?branch=master)](https://bettercodehub.com/)</td>
 </tr>
 
 
