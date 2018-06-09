@@ -108,7 +108,7 @@
 </tr>
 
 <tr>
-<td markdown="span">FinXP - 200OK </td>
+<td markdown="span">FinXP - 200OK</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/200OK?branch=master&token=8ed96653a8bfad6c296f725179c1946cb064b439)](https://bettercodehub.com/)</td>
 
 <td markdown="span">FW.pay2018 - FW.pay</td>
@@ -191,7 +191,7 @@
 <td markdown="span">Proxy - proxy-shop</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/proxy-shop?branch=master&token=b758b3621530410e211fba9a94fbe06202bd5ba8)](https://bettercodehub.com/)</td>
 
-<td markdown="span">Baas - repo</td>
+<td markdown="span">Baas - 2018-e-team-02</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/2018-e-team-02?branch=master)](https://bettercodehub.com/)</td>
 </tr>
 
