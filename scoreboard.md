@@ -277,8 +277,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Data Wallet - Frontend</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/data-wallet-wealth-fe?branch=master&token=ef117e5a8689c560ebdfcac3b0652063b364c81b)](https://bettercodehub.com/)</td>
 
 <td markdown="span">--</td>
 <td markdown="span">--</td>
