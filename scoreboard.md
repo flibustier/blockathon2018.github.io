@@ -145,8 +145,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">iManage - Client</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/iManage-Client?branch=master&token=f43b4d6e25330c3d0425d39f7b106d03344635b9)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
