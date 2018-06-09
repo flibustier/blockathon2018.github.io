@@ -272,8 +272,8 @@
 <td markdown="span">Data Wallet - Corda</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/data-wallet-corda?branch=master&token=4b651715bb257074583fdd822503142307e15b83)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Data Wallet - SP Api</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/data-wallet-springboot-api?branch=master&token=39a47e9c865db19a2ecdbded41143c93e6ade1e</td>
 </tr>
 
 <tr>
