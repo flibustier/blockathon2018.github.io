@@ -95,6 +95,11 @@
 </tr>
 
 <tr>
+<td markdown="span">LetsSeedTheReuse - LetsSeedTheReuse</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/LetsSeedTheReuse?branch=master&token=785be1519a0755354430fcee8ea46929263a7044)](https://bettercodehub.com/)</td>
+</tr>
+
+<tr>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
