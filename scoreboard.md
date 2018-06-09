@@ -292,11 +292,11 @@
 
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Click2see - Click2see</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/clicktosee?branch=master)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Click2see - FrontEnd</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/click2seeFrontEnd?branch=master)](https://bettercodehub.com/)</td>
 </tr>
 
 
