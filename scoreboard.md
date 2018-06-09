@@ -109,6 +109,23 @@
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/SecureDService?branch=master&token=6ba9297627141fadb44d510c3b172c21bd8e7dc6)](https://bettercodehub.com/)</td>
 </tr>
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/SecureDApp?branch=master&token=9f1cb94f31e3d497e4904d42463cc6c391193e64)](https://bettercodehub.com/)
+
+<tr>
+<td markdown="span">SecureD Managing- SecureDApp</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/SecureDApp?branch=master&token=9f1cb94f31e3d497e4904d42463cc6c391193e64)](https://bettercodehub.com/)</td>
+</tr>
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
 <tr>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
