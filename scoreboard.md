@@ -207,8 +207,8 @@
 <td markdown="span">Dalaxy - mobui</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/dalaxymobui?branch=master&token=43c476636557aefc6e44a37d7a804b284fd484ee)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">i2i - i2i-BB-hack</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/i2i-BB-hack?branch=master&token=383ed7ffc67df307b67eff9f7529a893e261880a)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
