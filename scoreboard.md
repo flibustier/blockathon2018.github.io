@@ -54,8 +54,8 @@
 <td markdown="span">R3 - Frontend-repo</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/frontend-repo?branch=master&token=503aa6e37515bac2ea561d6f45d0f3cbe2b00686)](https://bettercodehub.com/)</td>
 
-<td markdown="span">SSHForSecureFuture - mobile app</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/sshmobileapp?branch=master&token=40da017836ed23edb3c98c506b7a4fd5db509000)](https://bettercodehub.com/)</td>
+<td markdown="span"> - </td>
+<td markdown="span"> - </td>
 </tr> 
 
 <tr>
