@@ -19,9 +19,9 @@
 <thead>
 <tr class="header">
 <th>Beyond Banking Team - Repo</th>
-<th>BetterCodeHub Score</th>
+<th>BCH Score</th>
 <th>Beyond Banking Team - Repo</th>
-<th>BetterCodeHub Score</th>
+<th>BCHub Score</th>
 </tr>
 </thead>
 <tbody>
