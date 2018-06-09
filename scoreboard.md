@@ -180,8 +180,6 @@
 
 <td markdown="span">ConnectMortgages - ConnectMortgages</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/ConnectMortgages?branch=master)](https://bettercodehub.com/)</td>
-
-
 </tr>
 
 <tr>
@@ -238,8 +236,8 @@
 <td markdown="span">PrettyGoodP^hDataStorage - PeetotheAge</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/PeetotheAge?branch=master&token=df4a886064de8d86c3e743b2762677ef7b2ca03b)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Data Exchange - Data Exchange</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/DataExchange2018?branch=master&token=4c972084511b0823ecb35792463a669444b59ef9)](https://bettercodehub.com/)</td>
 </tr>
 
 
