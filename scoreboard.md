@@ -84,7 +84,7 @@
 </tr>
 
 <tr>
-<td markdown="span">RobiFin - Robofin</td>
+<td markdown="span">RoboFin - Robofin</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/robofin?branch=master&token=e015c8dd23f8267b2b5691746e71f4e580cbe4fa)](https://bettercodehub.com/)</td>
 
 <td markdown="span">LetsSeedTheReuse - LetsSeedTheReuse</td>
