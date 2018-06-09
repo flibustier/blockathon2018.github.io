@@ -202,8 +202,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Dalaxy - mobui</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/dalaxymobui?branch=master&token=43c476636557aefc6e44a37d7a804b284fd484ee)](https://bettercodehub.com/)</td>
 
 <td markdown="span">--</td>
 <td markdown="span">--</td>
