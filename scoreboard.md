@@ -36,6 +36,15 @@
 </tr>
 
 <tr>
+<td markdown="span">SSHForSecureFuture - financialoverviewservice</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/financialoverviewservice?branch=master&token=dc474f0692cde4e8f907a3081acaabf5d3f66ad1)](https://bettercodehub.com/)</td>
+
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+
+<tr>
 <td markdown="span">ZEx - Heimdall</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Heimdall?branch=master&token=43c29c2397b91b9eeeb44696b48606631376fe66)](https://bettercodehub.com/)</td>
 
@@ -44,12 +53,13 @@
 </tr>
 
 <tr>
-<td markdown="span">SSHForSecureFuture - financialoverviewservice</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/financialoverviewservice?branch=master&token=dc474f0692cde4e8f907a3081acaabf5d3f66ad1)](https://bettercodehub.com/)</td>
+<td markdown="span">UrVoiceUrChoice - UrVoiceUrChoiceNotification</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/UrVoiceUrChoiceNotification?branch=master&token=9edc4402c12b03bbee355780579a7f8f8bb6ac3b)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">UrVoiceUrChoice - UrVoiceUrChoiceServer</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/UrVoiceUrChoiceServer?branch=master&token=9163a7084315198141032b975ece6e1f5228d34f)](https://bettercodehub.com/)</td>
 </tr>
+
 
 <tr>
 <td markdown="span">Shop Aid - Shop Aid-api</td>
@@ -163,14 +173,6 @@
 
 <td markdown="span">Give&Trust - TwiteerIntegration</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/GiveAndTrustTwiteerIntegration?branch=master&token=94fbddba56d16b0efd0bfc90382caec23b2c3812)](https://bettercodehub.com/)</td>
-</tr>
-
-<tr>
-<td markdown="span">UrVoiceUrChoice - UrVoiceUrChoiceNotification</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/UrVoiceUrChoiceNotification?branch=master&token=9edc4402c12b03bbee355780579a7f8f8bb6ac3b)](https://bettercodehub.com/)</td>
-
-<td markdown="span">UrVoiceUrChoice - UrVoiceUrChoiceServer</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/UrVoiceUrChoiceServer?branch=master&token=9163a7084315198141032b975ece6e1f5228d34f)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
