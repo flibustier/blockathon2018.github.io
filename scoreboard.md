@@ -168,20 +168,12 @@
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/deloiiteblockchain?branch=master)](https://bettercodehub.com/)</td>
 </tr>
 
-<tr>
-<td markdown="span">Give&Trust - Web</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/giveandtrust-web?branch=master&token=a527d87cf0cfd0f7f144a6aa2ed21b1789ff037c)](https://bettercodehub.com/)</td>
-
-<td markdown="span">Give&Trust - App</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/giveandtrust-app?branch=master&token=4b7bf6e43aa5dd11ad0dc1cb6da8f3779dae7899)](https://bettercodehub.com/)</td>
-</tr>
 
 <tr>
-<td markdown="span">Give&Trust - SocialMediaIntegration</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/GiveAndTrustSocialMediaIntegration?branch=master&token=7617e834dcebf1f978067bcfc01b39f97c7a0f3a)](https://bettercodehub.com/)</td>
-
 <td markdown="span">Give&Trust - TwiteerIntegration</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/GiveAndTrustTwiteerIntegration?branch=master&token=94fbddba56d16b0efd0bfc90382caec23b2c3812)](https://bettercodehub.com/)</td>
+<td markdown="span"> - </td>
+<td markdown="span"> - </td>
 </tr>
 
 <tr>
