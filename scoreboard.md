@@ -26,6 +26,24 @@
 </thead>
 <tbody>
 <tr>
+    
+<tr>
+<td markdown="span">SSHForSecureFuture - Suggestions</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/suggestions?branch=master&token=a780d692fa26a55d4dd718dd3aa26a0e18bef85a)](https://bettercodehub.com/)</td>
+
+<td markdown="span">SSHForSecureFuture - Flightoffers</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/flightoffers?branch=master&token=d97c7207447e2c2cd575ee361c71f476b4b850c3)](https://bettercodehub.com/)</td>
+</tr>
+
+<tr>
+<td markdown="span">SSHForSecureFuture - financialoverviewservice</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/financialoverviewservice?branch=master&token=dc474f0692cde4e8f907a3081acaabf5d3f66ad1)](https://bettercodehub.com/)</td>
+
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
 <td markdown="span">Shop Aid - Shop Aid-api</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/shopaid-api?branch=master&token=31d0bf103996009033c69dc24e7fd5a6ee458869)](https://bettercodehub.com/)</td>
 
@@ -56,24 +74,8 @@
 
 <td markdown="span">R3 - Back end api</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/backend-api-repo?branch=master&token=34f14509e447d8cc1386650df64c1d17b45f65af)](https://bettercodehub.com/)</td>
-
 </tr> 
 
-<tr>
-<td markdown="span">SSHForSecureFuture - Suggestions</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/suggestions?branch=master&token=a780d692fa26a55d4dd718dd3aa26a0e18bef85a)](https://bettercodehub.com/)</td>
-
-<td markdown="span">SSHForSecureFuture - Flightoffers</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/flightoffers?branch=master&token=d97c7207447e2c2cd575ee361c71f476b4b850c3)](https://bettercodehub.com/)</td>
-</tr>
-
-<tr>
-<td markdown="span">SSHForSecureFuture - financialoverviewservice</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/financialoverviewservice?branch=master&token=dc474f0692cde4e8f907a3081acaabf5d3f66ad1)](https://bettercodehub.com/)</td>
-
-<td markdown="span">The Game Changer - GreenChange</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/greenchange?branch=master&token=eb77a65eb3660ec0329a6d30304351dc0f9de911)](https://bettercodehub.com/)</td>
-</tr>
 
 <tr>
 <td markdown="span">Guardian Devil - Andy Rest</td>
@@ -267,8 +269,8 @@
 <td markdown="span">Tammo - Tammo</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/TAMMO?branch=master)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">The Game Changer - GreenChange</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/greenchange?branch=master&token=eb77a65eb3660ec0329a6d30304351dc0f9de911)](https://bettercodehub.com/)</td>
 </tr>
 
 
@@ -279,8 +281,6 @@
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
-
-
 
 <tr>
 <td markdown="span">--</td>
