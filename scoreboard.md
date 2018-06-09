@@ -219,8 +219,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Trail Finder - Trailfinder</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/trailfinder?branch=master&token=373002389b10880703147646af8d34fca5f8373f)](https://bettercodehub.com/)</td>
 
 <td markdown="span">--</td>
 <td markdown="span">--</td>
