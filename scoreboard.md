@@ -33,18 +33,17 @@
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Kick?branch=master&token=19180af74f4292eb06acbf1dbbc1a167864d828f)](https://bettercodehub.com/)</td>
 </tr>
 
+
 <tr>
 <td markdown="span">Libra - Libra </td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Libra?branch=develop&token=f884142a47a0010b99785e7b7b7279b833e27682)](https://bettercodehub.com/)</td>
-
-<td markdown="span">Minions - Minions API</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-api?branch=master&token=20e36171d03414886e056990ad6633692f1469ea)](https://bettercodehub.com/)</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
 </tr>
 
 <tr>
 <td markdown="span">Homebanking - Homebanking</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/HomeBanking?branch=master&token=0e5f8e4ae8973d1c518ea95682769b23dd6b4ae3)](https://bettercodehub.com/)</td>
-
 <td markdown="span">R3 - Back end api</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/backend-api-repo?branch=master&token=34f14509e447d8cc1386650df64c1d17b45f65af)](https://bettercodehub.com/)</td>
 </tr>
@@ -52,7 +51,6 @@
 <tr>
 <td markdown="span">R3 - Frontend-repo</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/frontend-repo?branch=master&token=503aa6e37515bac2ea561d6f45d0f3cbe2b00686)](https://bettercodehub.com/)</td>
-
 <td markdown="span">SSH For Secure Future - ssh mobile app</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/sshmobileapp?branch=master&token=40da017836ed23edb3c98c506b7a4fd5db509000)](https://bettercodehub.com/)</td>
 </tr> 
@@ -210,11 +208,11 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Minions - Minions API</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-api?branch=master&token=20e36171d03414886e056990ad6633692f1469ea)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Minions - Frontend</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/minions-frontend?branch=develop)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
