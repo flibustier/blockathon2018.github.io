@@ -39,8 +39,8 @@
 <td markdown="span">SSHForSecureFuture - financialoverviewservice</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/financialoverviewservice?branch=master&token=dc474f0692cde4e8f907a3081acaabf5d3f66ad1)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Guardian Angel - guardianAngel</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/shaswatamukherjee/guardianAngel?branch=master)](https://bettercodehub.com/)</td>
 </tr>
 
 
@@ -179,8 +179,10 @@
 <td markdown="span">Graphite - GraphiteService</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/GraphiteService?branch=master)](https://bettercodehub.com/)</td>
 
-<td markdown="span">Guardian Angel - guardianAngel</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/shaswatamukherjee/guardianAngel?branch=master)](https://bettercodehub.com/)</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+
+
 </tr>
 
 <tr>
