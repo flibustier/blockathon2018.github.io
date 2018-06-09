@@ -290,7 +290,6 @@
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/FundingForce?branch=master&token=89a81aabd279ed39d2fd225ceb6014c4920a0f3a)](https://bettercodehub.com/)</td>
 </tr>
 
-
 <tr>
 <td markdown="span">Click2see - Click2see</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/clicktosee?branch=master)](https://bettercodehub.com/)</td>
@@ -301,9 +300,23 @@
 
 
 <tr>
+<td markdown="span"Click2see - Vendorapicall</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/VendorAPICall?branch=master)](https://bettercodehub.com/)</td>
+    
 <td markdown="span">--</td>
 <td markdown="span">--</td>
+</tr>
 
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
