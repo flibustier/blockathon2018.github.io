@@ -264,8 +264,8 @@
 
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Tammo - Tammo</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/TAMMO?branch=master)](https://bettercodehub.com/)</td>
 
 <td markdown="span">--</td>
 <td markdown="span">--</td>
