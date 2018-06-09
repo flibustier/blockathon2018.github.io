@@ -117,8 +117,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">SecureD Managing- SecureWebp</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/secureweb?branch=master&token=bc819e4deba41b9e48836aed5072e68617efc2c8)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
