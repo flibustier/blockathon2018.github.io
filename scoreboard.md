@@ -269,8 +269,8 @@
 
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Data Wallet - Corda</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/data-wallet-corda?branch=master&token=4b651715bb257074583fdd822503142307e15b83)](https://bettercodehub.com/)</td>
 
 <td markdown="span">--</td>
 <td markdown="span">--</td>
