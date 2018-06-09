@@ -181,8 +181,8 @@
 <td markdown="span">MyNewHome - mynewhome</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/mynewhome?branch=master&token=70aa78b508094b911ac8e5b5ddd9cfbca957f6a7)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">MyNewHome - frontend</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/my-new-home-frontend?branch=master)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
