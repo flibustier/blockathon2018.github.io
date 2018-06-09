@@ -45,14 +45,15 @@
 <td markdown="span">Team R3 (Re-use, Re-cyle, Re-design) - Back end api</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/backend-api-repo?branch=master&token=34f14509e447d8cc1386650df64c1d17b45f65af)](https://bettercodehub.com/)</td>
 </tr>
-    <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+     <tr>
+<td markdown="span">Team R3(Re-use, Re-cyle, Re-design) - Frontend - repo</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/frontend-repo?branch=master&token=503aa6e37515bac2ea561d6f45d0f3cbe2b00686)](https://bettercodehub.com/)</td>
 </tr>
     <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Team Pay it off - Kick</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Kick?branch=master&token=19180af74f4292eb06acbf1dbbc1a167864d828f)](https://bettercodehub.com/)</td>
 </tr>
+   
       <tr>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
