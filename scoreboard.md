@@ -100,8 +100,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Ultimate warriors - AkshayaPatra</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/AkshayaPatra?branch=master&token=141ebbf026497fa096de547c0dff543de57ed91d)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
