@@ -197,8 +197,8 @@
 <td markdown="span">Dalaxy - App</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/dalaxyapp?branch=master&token=92934e7989d521692e40dab2a1eea0441495540d)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Dalaxy - Consentmgmt</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/dalaxyconsentmgmt?branch=master&token=a150973f84d4479cbd738e731f8345d207ae3b89)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
