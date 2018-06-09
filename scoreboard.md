@@ -46,16 +46,17 @@
 <td markdown="span">Homebanking - Homebanking</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/HomeBanking?branch=master&token=0e5f8e4ae8973d1c518ea95682769b23dd6b4ae3)](https://bettercodehub.com/)</td>
 
-<td markdown="span">R3 - Back end api</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/backend-api-repo?branch=master&token=34f14509e447d8cc1386650df64c1d17b45f65af)](https://bettercodehub.com/)</td>
+<td markdown="span"> - </td>
+<td markdown="span"> - </td>
 </tr>
 
 <tr>
 <td markdown="span">R3 - Frontend-repo</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/frontend-repo?branch=master&token=503aa6e37515bac2ea561d6f45d0f3cbe2b00686)](https://bettercodehub.com/)</td>
 
-<td markdown="span"> - </td>
-<td markdown="span"> - </td>
+<td markdown="span">R3 - Back end api</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/backend-api-repo?branch=master&token=34f14509e447d8cc1386650df64c1d17b45f65af)](https://bettercodehub.com/)</td>
+
 </tr> 
 
 <tr>
