@@ -241,8 +241,45 @@
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Heimdall?branch=master&token=43c29c2397b91b9eeeb44696b48606631376fe66)](https://bettercodehub.com/)</td>
 
 <td markdown="span">ZEx - Yggdrasil</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Yggdrasil?branch=master)](https://bettercodehub.com/)</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Yggdrasil?branch=master&token=ee8dfe7790145bb38ffce5bd7d02ba071c8997f3)](https://bettercodehub.com/)</td>
 </tr>
+
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
 
 
 <tr>
