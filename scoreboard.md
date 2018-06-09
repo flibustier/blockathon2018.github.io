@@ -38,8 +38,8 @@
 <td markdown="span">Libra - Libra </td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Libra?branch=develop&token=f884142a47a0010b99785e7b7b7279b833e27682)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Vault - vault_data_privacy</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/vault_data_privacy?branch=master&token=731ea73f858c41f7484f9a9e700dbfc642ee4952)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
