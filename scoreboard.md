@@ -132,7 +132,7 @@
 </tr>
 
 <tr>
-<td markdown="span">Stryker - REciLEss</td>
+<td markdown="span">Strikers - REciLEss</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/REciLEss?branch=master&token=5ab57f50616ed6326ef35f9d4e69434dabb57cb9)](https://bettercodehub.com/) </td>
 
 <td markdown="span">Deloitte - deloiiteblockchain</td>
