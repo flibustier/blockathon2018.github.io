@@ -140,6 +140,11 @@
 </tr>
 
 <tr>
+<td markdown="span">ZEx - Heimdall</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Heimdall?branch=master&token=43c29c2397b91b9eeeb44696b48606631376fe66)](https://bettercodehub.com/)</td>
+</tr>
+
+<tr>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
