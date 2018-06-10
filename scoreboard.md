@@ -222,7 +222,7 @@
 
 <tr>
 <td markdown="span">Dalaxy - mobui</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/dalaxymobui?branch=master&token=43c476636557aefc6e44a37d7a804b284fd484ee)](https://bettercodehub.com/)</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/dalaxymobui?branch=master&token=01791088da92fb4b8d20b106d9f877855dc80a5b)](https://bettercodehub.com/)</td>
 
 <td markdown="span">Dalaxy - webui</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/dalaxywebui?branch=master&token=5e5c624a2f4823ae1609e3213cc4e2a7b1550c0f)](https://bettercodehub.com/)</td>
