@@ -144,7 +144,7 @@
 <td markdown="span">FinXP - 200OK</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/200OK?branch=master&token=8ed96653a8bfad6c296f725179c1946cb064b439)](https://bettercodehub.com/)</td>
 
-<td markdown="span">FW.pay2018 - FW.pay</td>
+<td markdown="span">FWD.pay2018 - FW.pay</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Fwd.Pay?branch=master&token=eaf9fde536ca609f8a42adeda82c4527f1959375)](https://bettercodehub.com/)</td>
 </tr>
 
