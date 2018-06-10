@@ -309,7 +309,7 @@
 <td markdown="span">i2i - i2i-BB-hack</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/i2i-BB-hack?branch=master&token=383ed7ffc67df307b67eff9f7529a893e261880a)](https://bettercodehub.com/)</td>
 
-<td markdown="span">2018-H-TEAM-0</td>
+<td markdown="span">2018-H-TEAM-07 - 2018-H-TEAM-07-PART02</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/2018-H-TEAM-07-PART02?branch=master&token=9cb24f98975d167847bcc193cf374672505a9935)](https://bettercodehub.com/)</td>
 </tr>
 
