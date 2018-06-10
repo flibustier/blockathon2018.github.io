@@ -260,8 +260,8 @@
 <td markdown="span">Princy - Princy</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Princy?branch=master)](https://bettercodehub.com/)</td>
 
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Breaking Shackles</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/Breaking_shackles?branch=master)](https://bettercodehub.com/)</td>
 </tr>
 
 
