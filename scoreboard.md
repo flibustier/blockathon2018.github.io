@@ -314,8 +314,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Asset4u - Asset4uServices</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/asset4uServices?branch=master&token=e80a00fb2e86c75b4f02b592c481906b38b2e3c7)](https://bettercodehub.com/)</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
