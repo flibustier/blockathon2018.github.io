@@ -189,8 +189,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">VoBanking</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/VoBanking?branch=master)](https://bettercodehub.com/)</td>
     
 <td markdown="span">Save the Pandas - SaveThePandas</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/save-the-pandas?branch=master&token=364fba2bbc19077589604d0edf4ef318b6a097f4)](https://bettercodehub.com/)</td>
