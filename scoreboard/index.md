@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h1>Thanks for participating!</h1>
 The coding phase of the BeyondBankingDays hackathon has ended
 
