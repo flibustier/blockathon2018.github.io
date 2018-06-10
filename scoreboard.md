@@ -197,10 +197,10 @@
 </tr>
 
 <tr>
-<td markdown="span">MyNewHome - mynewhome</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/mynewhome?branch=master&token=70aa78b508094b911ac8e5b5ddd9cfbca957f6a7)](https://bettercodehub.com/)</td>
+<td markdown="span">MyNewHome - 2018-b-team-04</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/2018-b-team-04?branch=master)](https://bettercodehub.com/)</td>
 
-<td markdown="span">MyNewHome - frontend</td>
+<td markdown="span">MyNewHome - my-new-home-frontend</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/my-new-home-frontend?branch=master)](https://bettercodehub.com/)</td>
 </tr>
 
@@ -227,8 +227,6 @@
 <td markdown="span">Dalaxy - webui</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/dalaxywebui?branch=master&token=5e5c624a2f4823ae1609e3213cc4e2a7b1550c0f)](https://bettercodehub.com/)</td>
 </tr>
-
-
 
 <tr>
 <td markdown="span">Trail Finder - Trailfinder</td>
@@ -303,8 +301,8 @@
 <td markdown="span">Click2see - Vendorapicall</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/VendorAPICall?branch=master)](https://bettercodehub.com/)</td>
     
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">MyNewHome - mynewhomecognito</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/BeyondBankingDays/mynewhomecognito?branch=master&token=6f3f82349ad063fdff7029c1f522f01c9a2796a5)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
