@@ -1,13 +1,3 @@
-<h1 id="scoreboardtitle" style="font-weight: bolder;
-    text-align: center;
-    border-bottom: #d8c69ec7;
-    border-bottom-width: 2px;
-    border-bottom-left-radius: 10px;
-    border-bottom-style: solid;
-    border-bottom-right-radius: 10px;
-    font-family: sans-serif;
-    letter-spacing: -1px;
-    color: #82254e;"><span style="color:#d8c69ec7">&#10097;</span>&nbsp; Scoreboard &nbsp;<span style="color:#d8c69ec7">&#10096;</span></h1>
 
 <table style="box-shadow:0px 0px 25px #bdeafb;">
 <colgroup>
