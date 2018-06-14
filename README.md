@@ -1,22 +1,19 @@
 <h1>Online service to evaluate Code Quality</h1>
 
-Event: [Beyond Banking by ABN AMRO](https://beyondbanking.nl)
+Blockathon programme: [#EUBlockathon2018](https://euipo.europa.eu/tunnel-web/secure/webdav/guest/document_library/observatory/documents/Blockathon/Blockathon_Programme.pdf)
 
-When: 8th, 9th and 10th June 2018
+When: 22 - 25th June 2018
 
-Venue: [Sugar City, Halfweg NL](https://beyondbanking.nl/p/venue)
+Venue: [Autoworld, Brussels](http://www.autoworld.be/onthaal)
 
-Award: Most Valuable Prototype (MVP)
 
-Award Prize: "Investor Readiness Workshop" organised by [SIG Transaction Services](https://www.sig.eu/it-due-diligence/)
-
-## Why your code is evaluated.
+## Why evaluate your code.
 
 It is amazing to see how far our industry has come over the past decades. New technologies, frameworks, agile processes - some of which were only recently invented - now define the way we work today. One prominently missing building block in the modern development setup is a standardised way to normatively measure code quality - a SMART 'Definition of Done' shared by all developers.
 
-Based on 15+ years of research and tens of thousands of measurements on IT systems from numerous industries, SIG presents 'Better Code Hub’ (BCH), an online environment that allows anyone to measure how their code compares to 10 rules for future-proof code. These ten rules code are described in SIG's book 'Building Maintainable Software', which was published with O'Reilly Media and which will be handed out at the event or can be downloaded [here C# edition in pdf](https://www.sig.eu/wp-content/uploads/2017/02/Building_Maintainable_Software_C_Sharp_SIG.pdf).
+Based on 15+ years of research and tens of thousands of measurements on IT systems from numerous industries, SIG presents 'Better Code Hub’ (BCH), an online environment that allows anyone to measure how their code compares to 10 rules for future-proof code. These ten rules code are described in SIG's book 'Building Maintainable Software', which was published with O'Reilly Media or can be downloaded [here C# edition in pdf](https://www.sig.eu/wp-content/uploads/2017/02/Building_Maintainable_Software_C_Sharp_SIG.pdf).
 
-## Your code is evaluated by using Better Code Hub (BCH).
+## Evaluating your code by using Better Code Hub (BCH).
 
 1. Your code will be automatically evaluated and benchmarked against 10 guidelines for building future-proof code. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
@@ -24,22 +21,21 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 200 KLoc per code base.
 
-4. You get points based on your score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10. All guidelines are equally important so please aim for a 10 for new codebases.
+4. Your repository gets a score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10. All guidelines are equally important so please aim for a 10 for new codebases.
 
-5. if you have multiple repos during this hacakthon, the lowest scoring repo is used for your final mark (weakest link principle).
 
-6. Your final score is between 1 - 10 [scoreboard](https://beyondbankingdays.github.io/scoreboard)
+6. All the scores are here on this [scoreboard](https://beyondbankingdays.github.io/scoreboard)
 
 
 ## How to get started.
 
-1. Make sure that you are a member of [BeyondBankingDays](https://github.com/orgs/BeyondBankingDays/). Slack or talk to organization of Hackathon if you are not yet a member and ask for an invite. Membership of the BeyondBankingDays org. allows you to store and analyse private repo's on GitHub.
+1. Make sure that you are a member of [#EUBlockathon2018](https://github.com/blockathon2018). Slack or talk to organization of Hackathon if you are not yet a member and ask for an invite. Membership of the blockathon2018 organization allows you to store and analyse private repo's on GitHub.
 
 2. Visit [bettercodehub.com](https://bettercodehub.com) and accept the scopes, please!
 
 3. Press Play button to get instant feedback on the 10 guidelines, browse the report & pick refactor candidates to turn into an Issue.
 
-4. Enable Push and Pull Request support by clinking on the PR icon on the card
+4. Enable Push and Pull Request support by clicking on the PR icon on the card
 
 5. Send your badge code to be added to the scoreboard. [here](https://beyondbankingdays.github.io/scoreboard)
 
@@ -48,11 +44,9 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 
 1. Before the event, through bettercodehub@sig.eu
 
-2. During the event on [Slack](https://beyondbankinghack.slack.com/) Channel #support_sig_bch @michielcuijpers or @martinboerman with questions about Better Code Hub.
+2. During the event on [Slack](https://xxxxx.slack.com/) Channel #support_sig_bch @michielcuijpers with questions about Better Code Hub.
 
-3. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049555.do) (get your free copy during the event)
-
-4. After the event, through bettercodehub@sig.eu 
+3. After the event, through bettercodehub@sig.eu 
 
 
 ## Further reading on Hackathons and Future-Proof code.
@@ -67,7 +61,7 @@ And this post on how [Dutch Blockchain Hackathon](https://dev.to/jstvssr/how-a-h
 
 
 
-Let's build some great banking software !!
+Let's build some great software !!
 
-[Martin](https://github.com/mboerman) and [Michiel](https://github.com/michielcuijpers), Christiaan , Robert and Michael.
+[Michiel](https://github.com/michielcuijpers)
 
