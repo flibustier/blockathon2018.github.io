@@ -48,5 +48,5 @@
 
 <hr>
 
-<h2>Powered by the bechmark of Software Improvement Group according to SIG/TÜViT Maintainability model.</h2>
+<h2>BetterCodeHub scores a powered by the industry benchmark of Software Improvement Group according to SIG/TÜViT Maintainability model.</h2>
 
