@@ -7,11 +7,16 @@ When: 22 - 25th June 2018
 Venue: [Autoworld, Brussels](http://www.autoworld.be/onthaal)
 
 
-## Why evaluate your code.
+## Why evaluate your code? 
+
+Spend less time fixing bugs. And more time shipping new features.
 
 It is amazing to see how far our industry has come over the past decades. New technologies, frameworks, agile processes - some of which were only recently invented - now define the way we work today. One prominently missing building block in the modern development setup is a standardised way to normatively measure code quality - a SMART 'Definition of Done' shared by all developers.
 
 Based on 15+ years of research and tens of thousands of measurements on IT systems from numerous industries, SIG presents 'Better Code Hub’ (BCH), an online environment that allows anyone to measure how their code compares to 10 rules for future-proof code. These ten rules code are described in SIG's book 'Building Maintainable Software', which was published with O'Reilly Media or can be downloaded [here C# edition in pdf](https://www.sig.eu/wp-content/uploads/2017/02/Building_Maintainable_Software_C_Sharp_SIG.pdf).
+
+A clean codebase keeps development velocity high and makes it easy for developers to start contributing. Better Code Hub indicates just the right amount of refactoring needed to keep it compliant.
+Better Code Hub checks your code for compliance against 10 benchmarked software engineering guidelines. It gives immediate feedback on where to focus for quality improvements. 16 modern programming languages are supported.
 
 ## Evaluating your code by using Better Code Hub (BCH).
 
