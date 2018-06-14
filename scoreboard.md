@@ -8,9 +8,9 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th>EUBlockathon Team - Repo</th>
+<th>Team - Repo</th>
 <th>BCH Score</th>
-<th>EUBlockathon Team - Repo</th>
+<th>Team - Repo</th>
 <th>BCHub Score</th>
 </tr>
 </thead>
