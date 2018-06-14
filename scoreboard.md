@@ -47,8 +47,9 @@
 </table>
 
 
-The Better Code Hub scores a powered by the industry benchmark of Software Improvement Group according to SIG/TÜViT Maintainability ISO 25010 model.
+
 
 <hr>
 
+The Better Code Hub scores a powered by the industry benchmark of Software Improvement Group according to SIG/TÜViT Maintainability ISO 25010 model.
 
