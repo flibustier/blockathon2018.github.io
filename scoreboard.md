@@ -42,6 +42,13 @@
 
 
 <tr>
+<td markdown="span">CryptoMice -</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Cryptomice?branch=master&token=b421f00eda35f3732ade6cdf204372a35ab2c2cf)](https://bettercodehub.com/)</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
@@ -54,6 +61,7 @@
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
+
 
 </tbody>
 </table>
