@@ -56,6 +56,13 @@
 </tr>
 
 <tr>
+<td markdown="span">PirateRepo - </td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/PirateRepo?branch=master&token=2fc641f590152b622097b465789c2fc60e5aa17a)](https://bettercodehub.com/)</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
@@ -68,7 +75,6 @@
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
-
 
 </tbody>
 </table>
