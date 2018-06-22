@@ -29,8 +29,8 @@
 <tr>
 <td markdown="span">Links - Blockstagram</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Blockstagram?branch=master&token=375b87554c877cae38161b26bb615fb7d22a082b)](https://bettercodehub.com/)</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Links - Blockstagram app</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/BlockstagramApp?branch=master&token=40072b932723ca3e7da755e190f8f90ec2834d99)](https://bettercodehub.com/)</td>
 </tr>
 
 <tr>
