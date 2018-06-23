@@ -61,7 +61,7 @@ Writing quality code [under time pressure](https://hackernoon.com/writing-qualit
 
 How a Hackathon [appreciates quality code](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
-Why Blockhain [needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
+Why Blockchain [needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
 And this post on how [Dutch Blockchain Hackathon](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code) appreciated quality code.
 
