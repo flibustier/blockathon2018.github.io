@@ -49,12 +49,12 @@
 </tr>
 
 <tr>
-<td markdown="span">Hyper42 - Hyper42</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/hyper42?branch=master&token=315ed5711271de5ff522cb59d6a8b6942111f49c)](https://bettercodehub.com/)</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
+<td markdown="span">Links - Blockstagram API</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/BlockstagramAPI?branch=master&token=e2f7ff87e8bf3ffe9623d16f07a94e95bbdf825a)](https://bettercodehub.com/)
+</td>
+<td markdown="span">Links - DAGoo</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/DAGoo-Dashboard?branch=master&token=c4c2713396d6909c28c9c5d82f5529a95712ba6e)](https://bettercodehub.com/)</td>
 </tr>
-
 
 <tr>
 <td markdown="span">Links - Blockstagram</td>
@@ -64,12 +64,16 @@
 </tr>
 
 <tr>
-<td markdown="span">Links - Blockstagram API</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/BlockstagramAPI?branch=master&token=e2f7ff87e8bf3ffe9623d16f07a94e95bbdf825a)](https://bettercodehub.com/)
-</td>
-<td markdown="span">Links - DAG00</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/DAGoo-Dashboard?branch=master&token=c4c2713396d6909c28c9c5d82f5529a95712ba6e)](https://bettercodehub.com/)</td>
+<td markdown="span">Hyper42 - Hyper42</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/hyper42?branch=master&token=315ed5711271de5ff522cb59d6a8b6942111f49c)](https://bettercodehub.com/)</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
 </tr>
+
+
+
+
+
 
 <tr>
 <td markdown="span">ReCheck - ReCheck</td>
