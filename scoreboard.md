@@ -11,7 +11,7 @@
 <th>Team - Repo</th>
 <th>BCH Score</th>
 <th>Team - Repo</th>
-<th>BCHub Score</th>
+<th>BCH Score</th>
 </tr>
 </thead>
 <tbody>
