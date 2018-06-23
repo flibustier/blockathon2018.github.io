@@ -81,7 +81,7 @@
 
 <tr>
 <td markdown="span">HunterFeit - </td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Hunterfeit?branch=master&token=)](https://bettercodehub.com/)</td>
+<td markdown="span">NO SCORE MAXED OUT</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
