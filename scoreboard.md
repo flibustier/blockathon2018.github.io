@@ -19,6 +19,14 @@
  </tr>   
 
 <tr>
+<td markdown="span">HunterFeit </td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Hunterfeit?branch=master&token=c78129428c95353a3a0ba690036bbf2591aff6e6)](https://bettercodehub.com/)</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+</tr>
+
+
+<tr>
 <td markdown="span">FIDES</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/FIDES?branch=master&token=1e1da213732523e59d75650d1950acadcd87ea0d)](https://bettercodehub.com/)</td>
 <td markdown="span"></td>
@@ -91,12 +99,6 @@
 <td markdown="span"></td>
 </tr>
 
-<tr>
-<td markdown="span">HunterFeit </td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Hunterfeit?branch=master&token=c78129428c95353a3a0ba690036bbf2591aff6e6)](https://bettercodehub.com/)</td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-</tr>
 
 
 
