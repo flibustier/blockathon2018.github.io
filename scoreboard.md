@@ -77,11 +77,16 @@
 <td markdown="span">--</td>
 </tr>
 
-
+<tr>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
 
 <tr>
 <td markdown="span">HunterFeit - </td>
-<td markdown="span">NO SCORE MAXED OUT</td>
+<td markdown="span">NO SCORE</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
