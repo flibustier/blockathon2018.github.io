@@ -28,22 +28,22 @@
 <tr>
 <td markdown="span">Nano4u - EthSmartContracts</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/nano4u_eth-smart-contracts?branch=master&token=7297c4250cd33182370f985c3f983817be5bbecb)](https://bettercodehub.com/)</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
 </tr>
 
 <tr>
 <td markdown="span">Keyrock - Keyrock</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/keyrock?branch=master&token=42a1e251d84ce100ce99e17d7aac96f90bd346bd)](https://bettercodehub.com/)</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
 </tr>
 
 <tr>
 <td markdown="span">Hyper42 - Hyper42</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/hyper42?branch=master&token=315ed5711271de5ff522cb59d6a8b6942111f49c)](https://bettercodehub.com/)</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
 </tr>
 
 
@@ -58,52 +58,50 @@
 <td markdown="span">Links - Blockstagram API</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/BlockstagramAPI?branch=master&token=e2f7ff87e8bf3ffe9623d16f07a94e95bbdf825a)](https://bettercodehub.com/)
 </td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
 </tr>
 
 <tr>
 <td markdown="span">ReCheck - ReCheck</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/ReCheck?branch=master&token=371816d957826479e7c7b6fd02b2485e6bd44c2e)](https://bettercodehub.com/)</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
 </tr>
-
-
-
-
-
 
 <tr>
 <td markdown="span">PirateRepo - </td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/PirateRepo?branch=master&token=2fc641f590152b622097b465789c2fc60e5aa17a)](https://bettercodehub.com/)</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
 </tr>
 
 <tr>
 <td markdown="span">Seal -</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Seal?branch=master&token=f9d6ec1d5422e68860d29bc965f8d9343e82b8ef)](https://bettercodehub.com/)</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
-</tr>
-
-
-
-
-
-<tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
 </tr>
 
 <tr>
 <td markdown="span">HunterFeit - </td>
 <td markdown="span">NO SCORE</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+</tr>
+
+<tr>
+<td markdown="span">FIDES - </td>
+<td markdown="span">NO SCORE</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+</tr>
+
+<tr>
+<td markdown="span">SpaceSystems - </td>
+<td markdown="span">NO SCORE</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
 </tr>
 
 </tbody>
