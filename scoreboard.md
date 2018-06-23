@@ -92,14 +92,14 @@
 
 <tr>
 <td markdown="span">FIDES - </td>
-<td markdown="span">NO SCORE YET</td>
+<td markdown="span"></td>
 <td markdown="span"></td>
 <td markdown="span"></td>
 </tr>
 
 <tr>
 <td markdown="span">SpaceSystems - </td>
-<td markdown="span">NO SCORE YET</td>
+<td markdown="span"></td>
 <td markdown="span"></td>
 <td markdown="span"></td>
 </tr>
