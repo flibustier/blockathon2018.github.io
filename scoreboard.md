@@ -19,6 +19,15 @@
  </tr>   
 
 <tr>
+<td markdown="span">FIDES - FIDES</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/FIDES?branch=master&token=1e1da213732523e59d75650d1950acadcd87ea0d)](https://bettercodehub.com/)</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+</tr>
+
+
+
+<tr>
 <td markdown="span">CryptoMice - App</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Cryptomice?branch=master&token=b421f00eda35f3732ade6cdf204372a35ab2c2cf)](https://bettercodehub.com/)</td>
 <td markdown="span">CryptoMice - Web</td>
@@ -90,12 +99,7 @@
 <td markdown="span"></td>
 </tr>
 
-<tr>
-<td markdown="span">FIDES - </td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-</tr>
+
 
 <tr>
 <td markdown="span">SpaceSystems - </td>
