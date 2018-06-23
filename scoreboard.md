@@ -97,8 +97,8 @@
 </tr>
 
 <tr>
-<td markdown="span">HunterFeit - </td>
-<td markdown="span">NO SCORE YET</td>
+<td markdown="span">HunterFeit </td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Hunterfeit?branch=master&token=c78129428c95353a3a0ba690036bbf2591aff6e6)](https://bettercodehub.com/)</td>
 <td markdown="span"></td>
 <td markdown="span"></td>
 </tr>
@@ -106,7 +106,7 @@
 
 
 <tr>
-<td markdown="span">SpaceSystems - </td>
+<td markdown="span">SpaceSystems</td>
 <td markdown="span"></td>
 <td markdown="span"></td>
 <td markdown="span"></td>
