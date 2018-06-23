@@ -19,6 +19,20 @@
  </tr>   
 
 <tr>
+<td markdown="span">Nano4u - EthSmartContracts</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/nano4u_eth-smart-contracts?branch=master&token=7297c4250cd33182370f985c3f983817be5bbecb)](https://bettercodehub.com/)</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
+<td markdown="span">Keyrock - Keyrock</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/keyrock?branch=master&token=42a1e251d84ce100ce99e17d7aac96f90bd346bd)](https://bettercodehub.com/)</td>
+<td markdown="span">--</td>
+<td markdown="span">--</td>
+</tr>
+
+<tr>
 <td markdown="span">Hyper42 - Hyper42</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/hyper42?branch=master&token=315ed5711271de5ff522cb59d6a8b6942111f49c)](https://bettercodehub.com/)</td>
 <td markdown="span">--</td>
@@ -56,12 +70,7 @@
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Cryptomice-web?branch=master&token=c10ee755779d5c4f5971198195ac5fa8cb956168)](https://bettercodehub.com/)</td>
 </tr>
 
-<tr>
-<td markdown="span">Nano4u - EthSmartContracts</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/nano4u_eth-smart-contracts?branch=master&token=7297c4250cd33182370f985c3f983817be5bbecb)](https://bettercodehub.com/)</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
-</tr>
+
 
 <tr>
 <td markdown="span">PirateRepo - </td>
@@ -77,6 +86,10 @@
 <td markdown="span">--</td>
 </tr>
 
+
+
+
+
 <tr>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
@@ -87,13 +100,6 @@
 <tr>
 <td markdown="span">HunterFeit - </td>
 <td markdown="span">NO SCORE</td>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
-</tr>
-
-<tr>
-<td markdown="span">Keyrock - Keyrock</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/keyrock?branch=master&token=42a1e251d84ce100ce99e17d7aac96f90bd346bd)](https://bettercodehub.com/)</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
