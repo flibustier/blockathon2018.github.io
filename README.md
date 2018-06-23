@@ -30,7 +30,7 @@ Better Code Hub checks your code for compliance against 10 benchmarked software 
 4. Your repository gets a score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10. All guidelines are equally important so please aim for a 10 for new codebases.
 
 
-6. All the scores are here on this [scoreboard](https://beyondbankingdays.github.io/scoreboard)
+6. All the scores are here on this [scoreboard]
 
 
 ## How to get started.
@@ -43,7 +43,7 @@ Better Code Hub checks your code for compliance against 10 benchmarked software 
 
 4. Enable Push and Pull Request support by clicking on the PR icon on the card
 
-5. Send your badge code to be added to the scoreboard. [here](https://beyondbankingdays.github.io/scoreboard)
+5. Send your badge code to be added to the scoreboard [here][scoreboard]
 
 
 ## How to get support.
@@ -71,3 +71,4 @@ Let's build some great software !!
 
 [Michiel](https://github.com/michielcuijpers)
 
+[scoreboard]: https://blockathon2018.github.io/scoreboard
