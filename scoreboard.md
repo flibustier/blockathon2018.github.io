@@ -49,7 +49,7 @@
 </tr>
 
 <tr>
-<td markdown="span">Nano4u - Eth Smart Contracts</td>
+<td markdown="span">Nano4u - EthSmartContracts</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/nano4u_eth-smart-contracts?branch=master&token=7297c4250cd33182370f985c3f983817be5bbecb)](https://bettercodehub.com/)</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
