@@ -63,8 +63,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Seal -</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Seal?branch=master&token=f9d6ec1d5422e68860d29bc965f8d9343e82b8ef)](https://bettercodehub.com/)</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
