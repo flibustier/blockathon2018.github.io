@@ -19,6 +19,13 @@
  </tr>   
 
 <tr>
+<td markdown="span">CryptoMice -</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Cryptomice?branch=master&token=b421f00eda35f3732ade6cdf204372a35ab2c2cf)](https://bettercodehub.com/)</td>
+<td markdown="span">CryptoMice - Web</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Cryptomice-web?branch=master&token=c10ee755779d5c4f5971198195ac5fa8cb956168)](https://bettercodehub.com/)</td>
+</tr>
+
+<tr>
 <td markdown="span">Nano4u - EthSmartContracts</td>
 <td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/nano4u_eth-smart-contracts?branch=master&token=7297c4250cd33182370f985c3f983817be5bbecb)](https://bettercodehub.com/)</td>
 <td markdown="span">--</td>
@@ -63,12 +70,7 @@
 </tr>
 
 
-<tr>
-<td markdown="span">CryptoMice -</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Cryptomice?branch=master&token=b421f00eda35f3732ade6cdf204372a35ab2c2cf)](https://bettercodehub.com/)</td>
-<td markdown="span">CryptoMice - Web</td>
-<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/Cryptomice-web?branch=master&token=c10ee755779d5c4f5971198195ac5fa8cb956168)](https://bettercodehub.com/)</td>
-</tr>
+
 
 
 
