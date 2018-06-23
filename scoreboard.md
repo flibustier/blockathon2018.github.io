@@ -87,8 +87,8 @@
 </tr>
 
 <tr>
-<td markdown="span">--</td>
-<td markdown="span">--</td>
+<td markdown="span">Keyrock - Keyrock</td>
+<td markdown="span">[![BCH compliance](https://bettercodehub.com/edge/badge/blockathon2018/keyrock?branch=master&token=42a1e251d84ce100ce99e17d7aac96f90bd346bd)](https://bettercodehub.com/)</td>
 <td markdown="span">--</td>
 <td markdown="span">--</td>
 </tr>
